@@ -4,7 +4,7 @@
 **Registration No:** 25BAI11152  
 **Department:** Computer Science & Engineering (AIML)  
 **Course:** Programming in JAVA  
-**Project:** Student Academic Management System  
+**Project:** Student  Management System  
 **Institution:** Vellore Institute of Technology (VIT)
 
 ---
