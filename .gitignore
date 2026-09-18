@@ -1,0 +1,11 @@
+# Java compiled files
+*.class
+
+# Compiled output folder
+out/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
